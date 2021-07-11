@@ -1,0 +1,20 @@
+- Data Analysis:
+
+	+ Series Pandas of Corey Schafer: https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+
+	+ Series Matplotlib of Corey Schafer: https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+
+	+ Series Python Tutorial of Corey Schafer : https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+	  (Series g?m nhi?u linh v?c: Web App, Data Analysis,...)
+
+	
+- Data Mining:
+	+ Series Web Scraping with Python of Sukhvinder Singh: https://www.youtube.com/watch?v=pLoRrHEsHb0&list=PLmcBskOCOOFUmbUv0CIMuATDVKVrOhBMV
+
+	+ Các Video khác v? Web Scraping: 
+		https://www.youtube.com/watch?v=XQgXKtPSzUI
+		https://www.youtube.com/watch?v=XVv6mJpFOb0&t=802s
+		https://www.youtube.com/watch?v=EawbYWaTP_k&list=WL&index=38 (Ti?ng Vi?t) 
+		https://www.youtube.com/watch?v=mJec74L0R7Y&t=791s (Tieng Viet)
+		https://www.youtube.com/watch?v=hfnBswCe4QE (Tieng Viet)
+	+ Clenning Data(R, Python): 

@@ -1,0 +1,130 @@
+,Name,Cost,Race,Generation,Health,Attack Damage,DPS,Attack Range,Attack Speed,Armor ,Magical Resistance,Skill Name,Mana Cost,Skill Description
+0,Akshan,5,Sentinel;,Ranger;,900 / 1620 / 2916,75 / 135 / 243,83 / 149 / 267,1,1.1,35,35,Heroic Swing,40/100,"Passive: Akshan's attacks reduce the target's Armor by 50% for 4 seconds.
+
+Active: Akshan launches his grappling hook and swings untargetably toward the farthest enemy, gaining Attack Speed for 4 seconds. Akshan will continue to attack the nearest enemy at double his Attack Speed while swinging.Attack Speed % : 60% / 80% / 400%"
+1,Fiddlesticks,4,Abomination;Revenant;,Mystic;,800 / 1440 / 2592,60 / 108 / 194.4,45 / 81 / 146,1,0.75,40,40,Crowstorm,50/125,"After a brief channel, Fiddlesticks teleports behind his target and summons a murder of crows for 4 seconds, dealing magic damage per second to all enemies within. Enemies that die within the flock extend its duration by 1 second and heal Fiddlesticks Health.Magic Damage : 150 / 225 / 500
+Percent Health Healing : 20% / 25% / 50%"
+2,Galio,4,Sentinel;Draconic;,Knight;,1000 / 1800 / 3240,70 / 126 / 226.8,42 / 76 / 136,1,0.6,60,60,Shield of Durand,80/150,"Galio charges the area around him for 2 seconds, taunting all enemies within while gaining Damage Reduction. Upon releasing the charge, Galio deals magic damage to all enemies within 3 hexes and heals for 50% of the damage blocked.Magic Damage : 200 / 300 / 2000
+Damage Reduction : 70% / 75% / 90%"
+3,Gwen,5,Inanimate;,Mystic;,950 / 1710 / 3078,60 / 108 / 194.4,54 / 97 / 175,1,0.9,50,50,Skip 'N Slash,0/20,"Gwen dashes around her target and performs 3 rapid snips in a cone in front of her, each dealing base damage 100 / 150 / 777 plus 5% / 8% / 50% of the target’s maximum Health as magic damage. Snips steal 1 / 1 / 5 Armor and Magic resist from their target. Every other cast, Gwen will perform double the amount of snips.Magic Damage : 100 / 150 / 777
+% Health as Damage : 5% / 8% / 50%
+Armor and Magic Resist : 1 / 1 / 5"
+4,Irelia,2,Sentinel;,Legionnaire;Skirmisher;,750 / 1350 / 2430,70 / 126 / 226.8,56 / 101 / 181,1,0.8,40,40,Defiant Dance,0/60,"Irelia surrounds herself with blades for 4 seconds and gains damage reduction, increasing by 10% each time she attacks, up to 90%. When the effect ends she strikes her target as magic damage.Magic Damage : 250 / 400 / 650
+Damage Reduction : 40% / 50% / 60%"
+5,Lucian,4,Sentinel;,Cannoneer;,700 / 1260 / 2268,75 / 135 / 243,56 / 101 / 182,1,0.75,25,25,The Culling,0/50,"Lucian faces the farthest enemy and fires 16 shots in that direction for 4 seconds, dashing on occasion to keep hitting enemies. Each shot hits for 50% of his Attack Damage and dealing magic damage. Lucian also fires extra shots based on his Attack Speed.Damage : 40 / 75 / 200
+Attack Damage Ratio : 50% / 50% / 50%"
+6,MissFortune,3,Forgotten;,Cannoneer;,700 / 1260 / 2268,55 / 99 / 178.2,44 / 79 / 143,1,0.8,25,25,Make it Rain,0/70,"Miss Fortune rains 4 waves of bullets down around her target, dealing total magic damage to enemies in the area and reducing their incoming healing by 50% for 6 seconds.Magic Damage : 250 / 400 / 750"
+7,Olaf,1,Sentinel;,Skirmisher;,650 / 1170 / 2106,65 / 117 / 210.6,46 / 82 / 147,1,0.7,35,35,Berserker Rage,No cost,"Passive: Olaf gains Attack Speed for each 1% of missing health, and his attacks heal him.Attack Speed : 2% / 3% / 4%
+Healing : 30 / 40 / 100"
+8,Pyke,2,Sentinel;,Assassin;,650 / 1170 / 2106,50 / 90 / 162,30 / 54 / 97,1,0.6,30,30,Phantom Undertow,60/120,"Pyke leaves a phantom at his location, then dashes behind the farthest enemy. After 1 second, his phantom returns to Pyke, dealing magic damage and stunning all enemies it passes through.Damage : 150 / 225 / 325
+Stun Duration : 1.5 / 2 / 2.5"
+9,Rakan,3,Sentinel;,Renewer;,800 / 1440 / 2592,50 / 90 / 162,30 / 54 / 97,1,0.6,35,35,Gleaming Quill,40/80,"Rakan launches a feather toward his target, dealing magic damage to the first enemy hit. Rakan then heals all nearby allies based on their missing health, with an increased radius if the feather killed an enemy.Damage : 350 / 500 / 900
+Healing : 25% / 35% / 60%"
+10,Senna,1,Sentinel;,Cannoneer;,500 / 900 / 1620,55 / 99 / 178.2,39 / 69 / 125,1,0.7,15,15,Last Embrace,40/80,"Senna launches black mist toward the farthest enemy. The first enemy hit along the path is stunned for 1.5 seconds, and all nearby enemies are dealt magic damage.Damage : 200 / 300 / 450"
+11,Tristana,2,Hellion;,Cannoneer;,650 / 1170 / 2106,65 / 117 / 210.6,52 / 94 / 168,1,0.8,20,20,Rocket Jump,75/125,"Tristana leaps behind the farthest enemy, retargeting to them and gaining Attack Speed for 4 seconds. If there is an enemy adjacent to her, she instead leaps as far away from all enemies as she can.Attack Speed : 140% / 160% / 180%"
+12,Aatrox,1,Redeemed;,Legionnaire;,650 / 1170 / 2106,60 / 108 / 194.4,39 / 70 / 126,1,0.65,30,30,Deathbringer Strike,0/70,"Aatrox strikes his target, dealing % of his Attack Damage, and heals himself.Percent of Attack Damage : 260% / 280% / 360%
+Healing : 200 / 300 / 450"
+13,Aphelios,4,Nightbringer;,Ranger;,650 / 1170 / 2106,75 / 135 / 243,64 / 115 / 207,1,0.85,25,25,Dark Vigil,0/90,"Aphelios launches attacks simultaneously, one at his target and the rest at the enemies nearest to them, dealing % of his Attack Damage plus bonus physical damage to each.Percent of Attack Damage : 140% / 150% / 180%
+Number of Targets : 4 / 4 / 8
+Bonus Damage : 125 / 150 / 300"
+14,Ashe,3,Draconic;,Ranger;,550 / 990 / 1782,60 / 108 / 194.4,45 / 81 / 146,1,0.75,20,20,Enchanted Arrow,50/100,"Ashe fires an arrow at the farthest enemy, dealing magic damage to the first enemy hit and stunning them. If the arrow travels at least 5 hexes, the stun duration is doubled. Enemies within 1 hex receive 50% of these effects.Damage : 300 / 450 / 650
+Stun Duration : 1.5 / 2 / 2.5"
+15,Brand,2,Abomination;,Spellweaver;,600 / 1080 / 1944,45 / 81 / 145.8,29 / 53 / 95,1,0.65,20,20,Sear,0/20,"Brand launches a ball of fire at the nearest non-seared enemy, searing them for magic damage over 12 seconds. Seared enemies have reduced Magic Resist.Damage : 600 / 900 / 1500
+Magic Resist Shred : 40% / 50% / 70%"
+16,Diana,4,Nightbringer;,Assassin;,750 / 1350 / 2430,55 / 99 / 178.2,39 / 69 / 125,1,0.7,40,40,Moonfall,80/160,"Diana calls forth moonlight, drawing in all nearby enemies, dealing magic damage and stunning them.Damage : 250 / 350 / 1500
+Stun Duration : 2 / 2.5 / 4"
+17,Draven,4,Forgotten;,Legionnaire;,700 / 1260 / 2268,90 / 162 / 291.6,68 / 122 / 219,1,0.75,30,30,Spinning Axes,0/40,"Draven starts spinning an axe, empowering his next attack to deal % of his Attack Damage plus bonus physical damage. It will return to his original location after striking the target. If Draven catches it, he will empower the axe again.
+
+Draven can spin up to 2 axes at a time.% Attack Damage : 170% / 180% / 340%
+Damage : 150 / 200 / 800"
+18,Garen,5,Dawnbringer;Victorious;,Knight;,1050 / 1890 / 3402,80 / 144 / 259.2,60 / 108 / 194,1,0.75,60,60,God-Lion's Justice,40/100,"Garen calls down a sword that strikes a large area around his target, dealing % of each target's max Health in magic damage and reducing their Magic Resist by 50% for 8 seconds. Garen gains a shield equal to % of his maximum Health for 4 seconds.Maximum Health Damage : 20% / 25% / 200%
+Shield Amount : 35% / 45% / 200%"
+19,Gragas,1,Dawnbringer;,Brawler;,750 / 1350 / 2430,50 / 90 / 162,25 / 45 / 81,1,0.5,40,40,Drunken Rage,40/70,"Gragas drinks from his cask, granting him % of damage reduction for 4 seconds, and causing his next attack to deal bonus magic damage.Magic Damage : 175 / 250 / 400
+Damage Reduction : 35% / 45% / 60%"
+20,Hecarim,2,Forgotten;,Cavalier;,750 / 1350 / 2430,55 / 99 / 178.2,30 / 54 / 98,1,0.55,45,45,Spirit of Dread,50/100,"Hecarim creates an aura around himself for 3 seconds. Each enemy within the aura takes magic damage and heals Hecarim over the duration.Damage : 250 / 350 / 500
+Healing : 250 / 350 / 500"
+21,Heimerdinger,5,Draconic;,Caretaker;Renewer;,800 / 1440 / 2592,45 / 81 / 145.8,34 / 61 / 109,1,0.75,30,30,Upgrade!!!,0/140,"Heimerdinger empowers his Baby Dragon's next attack. The Baby Dragon's overcharged attack launches 3 fireballs across the battlefield, dealing magic damage and burning enemies for 18% of their maximum Health as true damage over 6 seconds, reducing healing by 50% for the duration.
+
+If Heimerdinger does not have a Baby Dragon, this Ability will create one instead.Magic Damage : 500 / 650 / 7777"
+22,Ivern,4,Revenant;,Invoker;Renewer;,950 / 1710 / 3078,40 / 72 / 129.6,30 / 54 / 97,1,0.75,50,50,Daisy!,100/180,"Ivern summons his Sentinel friend Daisy to fight with him. Daisy receives 100% of Ivern's Ability Power and immediately casts Shockwave upon arrival.
+
+If Daisy is already in battle, Ivern increases her Ability Power and commands her to cast Shockwave again.Daisy Health : 1500 / 2400 / 10000
+Secondary Ability Power Bonus : 100 / 150 / 300"
+23,Jax,4,Ironclad;,Skirmisher;,900 / 1620 / 2916,80 / 144 / 259.2,72 / 130 / 233,1,0.9,50,50,Empowered Strike,0/20,"Jax slams his target for % of his Attack Damage and gains stacking Attack Speed for the remainder of combat. Jax leaps to the nearest enemy if no target is in his Attack Range.Percent of Attack Damage : 200% / 220% / 300%
+Attack Speed : 30% / 35% / 100%"
+24,Kalista,1,Abomination;,Legionnaire;,500 / 900 / 1620,60 / 108 / 194.4,45 / 81 / 146,1,0.75,15,15,Pierce,0/120,"Kalista hurls a spear towards the farthest enemy, dealing % of her Attack Damage plus bonus physical damage to the first enemy it hits. If it kills an enemy, the spear continues and will deal any excess damage to the next enemy it hits.Percent of Attack Damage : 180% / 200% / 240%
+Bonus Damage : 350 / 600 / 1000"
+25,Karma,4,Dawnbringer;,Invoker;,700 / 1260 / 2268,45 / 81 / 145.8,32 / 57 / 102,1,0.7,25,25,Soulflare,0/50,"Karma fires a burst of energy towards a random enemy's location that detonates upon impact, dealing magic damage to adjacent enemies, and reducing Karma's maximum Mana (down to a minimum of 10).
+
+Karma empowers every third cast, causing it to launch 3 bursts of energy toward different targets instead of 1.Magic Damage : 225 / 280 / 700
+Mana Cost Reduction : 15 / 15 / 30"
+26,Kayle,5,Redeemed;,Legionnaire;,650 / 1170 / 2106,75 / 135 / 243,83 / 149 / 267,1,1.1,25,25,Divine Ascent,0/5,"Passive: Kayle ascends every a few seconds. Each bonus stacks with the one before, until she is fully ascended.
+1st: Attacks deal % of Kayle's Attack Damage as bonus true damage.
+2nd: Attacks explode around the target dealing her Attack Damage and bonus true damage to adjacent enemies.
+3rd: Every 15th attack grants Kayle immunity to damage for 1 second.
+4th: Attacks cause swords to rain down around the target, dealing magic damage.1st Ascension Percent of Attack Damage : 80% / 90% / 1000%
+4th Ascension Area Damage : 80 / 125 / 4000
+Seconds per Ascension : 5 / 5 / 1"
+27,Kennen,2,Hellion;,Skirmisher;,600 / 1080 / 1944,50 / 90 / 162,35 / 63 / 113,1,0.7,30,30,Flame Rush,60/125,"Kennen engulfs himself in flame, dashing behind his target, then to the farthest enemy. Enemies he passes through are zapped dealing magic damage and stunning them.Damage : 150 / 225 / 350
+Stun Duration : 1.5 / 2 / 2.5"
+28,Khazix,1,Dawnbringer;,Assassin;,500 / 900 / 1620,55 / 99 / 178.2,39 / 69 / 125,1,0.7,25,25,Taste their Fear,0/60,"Kha'Zix slashes the nearest enemy, dealing magic damage. If the enemy has no adjacent allies, this damage is increased.Damage : 250 / 350 / 550
+Isolation Damage : 750 / 1050 / 1650"
+29,Kled,1,Hellion;,Cavalier;,400 / 720 / 1296,65 / 117 / 210.6,49 / 88 / 158,1,0.75,30,30,Violent Tendencies,No cost,"Passive: Kled deals 200% of his Attack Damage every 4th attack.
+
+Kled enters combat on Skaarl, granting him a shield for 80% of his maximum Health. When the shield is broken Kled dismounts, becoming untargetable briefly, gaining Attack Speed.Attack Speed % : 70% / 80% / 100%"
+30,LeeSin,3,Nightbringer;,Skirmisher;,850 / 1530 / 2754,60 / 108 / 194.4,45 / 81 / 146,1,0.75,35,35,Cripple,30/70,"Lee Sin slams the ground, dealing magic damage to nearby enemies and slowing their Attack Speed by 50% for 4 seconds.Damage : 250 / 350 / 700"
+31,Leona,1,Redeemed;,Knight;,700 / 1260 / 2268,80 / 144 / 259.2,44 / 79 / 143,1,0.55,40,40,Solar Barrier,0/60,"Leona creates a barrier around herself, reducing all incoming damage for 4 seconds.Damage Reduction : 30 / 50 / 200"
+32,Lulu,3,Hellion;,Mystic;,650 / 1170 / 2106,40 / 72 / 129.6,28 / 50 / 91,1,0.7,25,25,Whimsy,40/100,"Lulu enchants several units nearest to her. Enchanted allies gain % bonus Attack Speed for 4 seconds. Enchanted enemies are stunned and transformed into a docile feline for a few seconds, taking 20% increased damage. If there are less targets nearby, Lulu will enchant herself.Number of Targets : 3 / 4 / 6
+Attack Speed % : 70% / 80% / 120%
+Stun Duration : 1.5 / 2 / 2.5"
+33,Lux,3,Redeemed;,Mystic;,600 / 1080 / 1944,40 / 72 / 129.6,24 / 43 / 78,1,0.6,20,20,Prismatic Illumination,40/80,"Lux launches her wand toward her farthest ally, then calls the wand back to her hand. The wand shields each ally in its path for 3 seconds. Lux also empowers her next attack to deal an additional magic damage.Shield Amount : 120 / 180 / 360
+Damage : 400 / 600 / 1000"
+34,Nautilus,2,Ironclad;,Knight;,750 / 1350 / 2430,80 / 144 / 259.2,44 / 79 / 143,1,0.55,45,45,Anchor Slam,50/120,"Nautilus causes the ground beneath his target to erupt, knocking them up, stunning them, and dealing magic damage. Enemies adjacent to the target receive 50% of this effect.Damage : 200 / 300 / 750
+Stun Duration : 3 / 4 / 6"
+35,Nidalee,3,Dawnbringer;,Skirmisher;,800 / 1440 / 2592,50 / 90 / 162,45 / 81 / 146,1,0.9,35,35,Aspect of the Cougar,0/60,"Nidalee transforms into a cougar and leaps behind the lowest Health enemy.
+
+While in cougar form, Nidalee gains 45% Dodge Chance, Attack Speed, and her attacks become melee attacks that deal bonus magic damage every 4th attack.Damage : 200 / 300 / 600
+Attack Speed % : 40% / 50% / 75%"
+36,Nocturne,3,Revenant;,Assassin;,650 / 1170 / 2106,80 / 144 / 259.2,72 / 130 / 233,1,0.9,30,30,Umbra Blades,No cost,"Passive: Every third attack, Nocturne slashes all adjacent enemies for 125% of his Attack Damage, and heals himself for % of the damage dealt. If only one target is hit, Nocturne increase his Attack Speed for 3 seconds.Percent Healed : 90% / 95% / 100%
+Attack Speed % : 30% / 35% / 40%"
+37,Nunu,3,Abomination;,Brawler;,900 / 1620 / 2916,65 / 117 / 210.6,36 / 64 / 116,1,0.55,45,45,Consume,0/75,"Willump bites his target, dealing magic damage. If Willump's target has less Health than he does before the bite, it deals an additional 50% damage and becomes true damage.Damage : 500 / 750 / 1800"
+38,Poppy,1,Hellion;,Knight;,600 / 1080 / 1944,80 / 144 / 259.2,44 / 79 / 143,1,0.55,40,40,Buckler Toss,50/70,"Poppy throws her buckler at the farthest enemy, dealing magic damage. The buckler then bounces back, granting Poppy a shield that blocks damage.Damage : 150 / 250 / 400
+Shield Amount : 250 / 375 / 525"
+39,Rell,4,Redeemed;Ironclad;,Cavalier;,950 / 1710 / 3078,70 / 126 / 226.8,42 / 76 / 136,1,0.6,60,60,Attract and Repel,80/150,"Rell leaps into the air and creates a tether between herself and her farthest ally. When she lands, the tether breaks, stunning all nearby enemies in its path for a few seconds. This effect also grants Health shield for 4 seconds to nearby allies in the same area.Shield Amount : 300 / 450 / 3000
+Stun Duration : 1.5 / 2 / 8"
+40,Riven,3,Dawnbringer;,Legionnaire;,850 / 1530 / 2754,85 / 153 / 275.4,68 / 122 / 220,1,0.8,35,35,Blade of the Dawn,0/40,"Riven empowers her blade, stunning nearby enemies for 1.5 seconds and dealing them magic damage. For the next 8 seconds, she gains bonus Attack Damage.Magic Damage : 100 / 200 / 500
+Bonus Attack Damage : 90% / 100% / 130%"
+41,Sejuani,2,Nightbringer;,Cavalier;Brawler;,750 / 1350 / 2430,65 / 117 / 210.6,36 / 64 / 116,1,0.55,45,45,Fury of the North,0/60,"Sejuani signals Bristle to charge, dealing magic damage and stunning her target. She then gains Frost Armor, granting her Armor and Magic Resist for 4 seconds.Armor and Magic Resist : 100 / 150 / 300
+Stun Duration : 2 / 3 / 4
+Magic Damage : 300 / 450 / 750"
+42,Sett,2,Draconic;,Brawler;,750 / 1350 / 2430,70 / 126 / 226.8,49 / 88 / 159,1,0.7,35,35,Haymaker,0/50,"After a brief wind up Sett punches forward in a cone, shredding flat Armor for 10 seconds (stacks) and dealing % of his Attack Damage as physical damage to all enemies in the area.Flat Armor Reduction : 20 / 25 / 30
+Percent of Attack Damage : 170% / 185% / 200%"
+43,Soraka,2,Dawnbringer;,Renewer;,550 / 990 / 1782,40 / 72 / 129.6,24 / 43 / 78,1,0.6,25,25,Equinox,30/70,"Soraka calms the area around the enemy with the highest current percent Mana, dealing magic damage to all enemies hit and increasing the cost of their next ability.Damage : 150 / 250 / 400
+Mana Cost Increase : 35%"
+44,Syndra,2,Redeemed;,Invoker;,550 / 990 / 1782,40 / 72 / 129.6,26 / 47 / 84,1,0.65,20,20,Force of Will,50/90,"Syndra grabs the nearest enemy and flings them towards the farthest enemy, dealing magic damage to all nearby enemies upon impact and stunning the thrown target.Damage : 300 / 400 / 600
+Stun Duration : 2 / 2.5 / 4"
+45,Teemo,5,Hellion;,Cruel;Invoker;,800 / 1440 / 2592,65 / 117 / 210.6,52 / 94 / 168,1,0.8,30,30,Teemo's Cruelty,0/60,"Teemo scatters Infernal Souls around a random enemy. When an enemy nears an Infernal Soul (or after 3 seconds), it explodes dealing magic damage to nearby enemies and reducing their Attack Speed by 50%.Damage : 130 / 160 / 666
+Infernal Souls : 5 / 6 / 42"
+46,Thresh,2,Forgotten;,Knight;,800 / 1440 / 2592,75 / 135 / 243,45 / 81 / 146,1,0.6,40,40,Death Sentence,40/80,"Thresh hooks his farthest enemy with his chain scythe, dealing magic damage and pulling them toward himself.Damage : 200 / 400 / 1000
+Duration : 2 / 3 / 4"
+47,Udyr,1,Draconic;,Skirmisher;,700 / 1260 / 2268,55 / 99 / 178.2,41 / 74 / 134,1,0.75,30,30,Feral Instinct,30/40,"Udyr swaps between Turtle and Tiger stance with each cast, gaining the following benefits:
+Turtle: Gain a Health shield for 4 seconds.
+Tiger: Strike 3 times quickly with his next attack for % of his Attack Damage.Shield Amount : 250 / 350 / 550
+Percent of Attack Damage : 120 / 130 / 180"
+48,Varus,2,Redeemed;,Ranger;,550 / 990 / 1782,60 / 108 / 194.4,45 / 81 / 146,1,0.75,20,20,Holy Arrows,0/60,"Varus fires a hail of arrows around his target, dealing % of his Attack Damage as physical damage. Varus and allies within the area are blessed, causing them to deal bonus magic damage with their attacks for 6 seconds.Bonus Magic Damage : 40 / 60 / 90
+Attack Damage : 150% / 155% / 165%"
+49,Vayne,1,Forgotten;,Ranger;,500 / 900 / 1620,30 / 54 / 97.2,24 / 43 / 78,1,0.8,15,15,Silver Bolts,No cost,Passive: Vayne's third attack on a target deals bonus true damage on-hit.Bonus True Damage : 70 / 100 / 140
+50,Vel'koz,4,Redeemed;,Spellweaver;,650 / 1170 / 2106,45 / 81 / 145.8,34 / 61 / 109,1,0.75,25,25,Lifeform Disintegration Ray,0/80,"Vel'Koz channels a ray of energy for 3 seconds toward the enemy nearest the center of the battlefield, dealing total magic damage over the duration. The beam widens as Vel'Koz channels, and he will pivot if there are no enemies in the area.Damage : 900 / 1150 / 4000"
+51,Viego,5,Forgotten;,Assassin;Skirmisher;,1000 / 1800 / 3240,70 / 126 / 226.8,70 / 126 / 227,1,1,40,40,Sovereign's Domination,0/40,"Viego corrupts the soul of his target for 5 seconds, stunning them and dealing magic damage, increasing 100% each second. Viego will be interrupted if he is stunned, and Viego's allies prefer not to target his victim during soul corruption.
+
+If his victim dies, they are resurrected at full Health to fight for him, but they lose their Health per second. Resurrected enemies receive the Trait bonuses of Viego's team instead of their own.Damage : 180 / 300 / 1500
+Resurrected Health loss per second : 15% / 7% / 0%"
+52,Vladimir,1,Nightbringer;,Renewer;,650 / 1170 / 2106,45 / 81 / 145.8,29 / 53 / 95,1,0.65,35,35,Transfusion,0/80,"Vladimir deals magic damage to the target and heals himself.Damage : 300 / 420 / 540
+Heal : 200 / 280 / 360"
+53,Volibear,5,Revenant;,Brawler;,1100 / 1980 / 3564,80 / 144 / 259.2,52 / 94 / 168,1,0.65,60,60,Doombringer,110/200,"Volibear leaps toward his target, then slams the ground in a large area around him. This effect knocks up and stuns enemies, removing any shields and dealing magic damage.Damage : 150 / 300 / 5000
+Stun Duration : 2.5 / 3.5 / 10"
+54,Yasuo,3,Nightbringer;,Legionnaire;,800 / 1440 / 2592,60 / 108 / 194.4,60 / 108 / 194,1,1,35,35,Burning Blade,0/40,"Yasuo strikes his target, dealing magic damage. He then empowers his blade, gaining stacking bonus true damage on-hit for the rest of combat.Magic Damage : 250 / 350 / 650
+Bonus True Damage : 25 / 35 / 65"
+55,Ziggs,1,Hellion;,Spellweaver;,450 / 810 / 1458,40 / 72 / 129.6,30 / 54 / 97,1,0.75,15,15,Arcane Bomb,0/40,"Ziggs throws an arcane bomb at his target, dealing magic damage.Damage : 250 / 375 / 525"
+56,Zyra,3,Draconic;,Spellweaver;,600 / 1080 / 1944,40 / 72 / 129.6,28 / 50 / 91,1,0.7,20,20,Grasping Roots,40/100,"Zyra sends a surge of vines toward her farthest enemy, dealing magic damage and stunning all enemies they hit.Damage : 200 / 325 / 650
+Stun Duration : 1.5 / 2 / 2.5"
